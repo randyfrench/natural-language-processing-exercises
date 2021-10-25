@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__
+iris.csv
+env.py
+untidy-data
+telco_df.csv
+zillow.csv
+zillow_cached.csv
+curlog.csv
+
