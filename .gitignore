@@ -8,4 +8,5 @@ telco_df.csv
 zillow.csv
 zillow_cached.csv
 curlog.csv
+*.json
 
